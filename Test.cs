@@ -1,5 +1,3 @@
-﻿using System;
-
 int[][] nums = new int[2][];
 nums[0] = new int[]{ 1, 2, 3};
 nums[1] = new int[]{ 4, 5, 6};
